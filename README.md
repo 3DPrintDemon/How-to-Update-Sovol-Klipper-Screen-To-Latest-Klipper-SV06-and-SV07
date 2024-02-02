@@ -10,7 +10,7 @@
 ## YOU HAVE BEEN WARNED! 
 
 To update anything on the Sovol Klipper screen you absoutly MUST freeze or lock the kernal to stop it being updated when you run any updates or installers.
-Also note this is NOT for begineers, it requires so knowledge of the system you're working on to achieve sucess! Please be careful!
+Also note this is NOT for begineers, it requires some knowledge of the system you're working on to achieve sucess! Please be careful!
 
 First you have to log into your Sovol Klipper Screen ussing SSH. Use `Terminal` on a Mac or `Putty` on a PC.
 
