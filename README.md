@@ -1,5 +1,9 @@
 # How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07
 
+[<img width="171" alt="kofi_s_tag_dark" src="https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/ace919af-8fd3-412a-96a5-fae422ab4758">](https://ko-fi.com/3dprintdemon)
+
+## Don't forget if you like & use this project you can buy me a beer/coffee to say thanks. [https://ko-fi.com/3dprintdemon](https://ko-fi.com/3dprintdemon)
+
 ## IF THIS PROCESS IS DONE INCORRECTLY IT WILL BRICK YOUR PRINTER! BEFORE YOU ATTEMPT THIS THE OUTCOME IS TOTALLY ON YOU! I HIGHLY RECCOMEND YOU MAKE A WORKING BACKUP OF YOUR PRINTER &/OR A CLONE OF YOUR EMMC!
 ## YOU HAVE BEEN WARNED! 
 
@@ -84,7 +88,7 @@ managed_services: klipper
 ```
 Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have access to the `UPDATE MANAGER`
 - Click the circle arrow button in the top of that section the get the latest update info.
-- click update on your components
+- Click update on your components
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
 
 YOUR version of klipper will be partially updated & you'll probabaly get a big red warning saying `PROTCOL ERROR!`
@@ -94,7 +98,7 @@ Dont worry we're doing that now!
 
 ## UPDATING THE HOST MCU RPI & MCU FIRMWARE
 
-Now tricky bit is done & your system is updated & working you need to update the rest of the printer.
+Now your system is updated & working you need to update the rest of the printer.
 First up get back in to SSH & enter the below commands to update the MCU RPI to the same firmware version as the new Klipper.
 
 ```
@@ -121,12 +125,11 @@ make menuconfig
 ```
 but this time change the options to these...
 ```
-STM32F103 with a "28KiB bootloader" and serial (on USART1 PA10/PA9)
-communication.
+STM32F103 with a "28KiB bootloader" and serial (on USART1 PA10/PA9) communication.
 ```
 Save & exit
 
-now simple type 
+now simply type 
 ```
 make
 ```
@@ -163,3 +166,10 @@ SV06/SV06+
 - Power the printer back on
 - Go to the `Machine` tab & check your MCU firmware is now the same number as the other two
 - Youre all done. WELL DONE!!
+
+I hope this helps you update your printer/s! Happy printing!
+
+[<img width="171" alt="kofi_s_tag_dark" src="https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/ace919af-8fd3-412a-96a5-fae422ab4758">](https://ko-fi.com/3dprintdemon)
+
+## Don't forget if you like & use this project you can buy me a beer/coffee to say thanks. [https://ko-fi.com/3dprintdemon](https://ko-fi.com/3dprintdemon)
+
