@@ -55,7 +55,7 @@ sudo reboot
 ```
 
 
-IF it fails to start you'll need to look at unbricking & reinstalling your image.
+If it fails to start you'll need to look at unbricking & reinstalling your image.
 If it works like mine did GREAT well done, the tricky bit is over!
 
 ## UPDATING KLIPPER, MAINSAIL & MOONRAKER
