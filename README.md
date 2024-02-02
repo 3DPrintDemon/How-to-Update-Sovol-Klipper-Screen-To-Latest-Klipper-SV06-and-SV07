@@ -9,6 +9,10 @@
 ## I HIGHLY RECCOMEND YOU MAKE A WORKING BACKUP OF YOUR PRINTER &/OR A CLONE OF YOUR EMMC!
 ## YOU HAVE BEEN WARNED! 
 
+### If you need some macros be sure to check out these!
+https://github.com/3DPrintDemon/Demon_KLIPPER_Essentials
+***********************************************************************************************************************************************************
+
 To update anything on the Sovol Klipper screen you absoutly MUST freeze or lock the kernal to stop it being updated when you run any updates or installers.
 Also note this is NOT for begineers, it requires some knowledge of the system you're working on to achieve sucess! Please be careful!
 
@@ -184,6 +188,10 @@ Your `Machine` tab should now look like this!
 
 
 I hope this helps you update your printer/s! Happy printing!
+
+### If you need some macros be sure to check out these!
+https://github.com/3DPrintDemon/Demon_KLIPPER_Essentials
+
 
 [<img width="171" alt="kofi_s_tag_dark" src="https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/ace919af-8fd3-412a-96a5-fae422ab4758">](https://ko-fi.com/3dprintdemon)
 
