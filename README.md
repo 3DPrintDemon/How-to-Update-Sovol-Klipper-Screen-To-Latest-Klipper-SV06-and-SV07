@@ -37,6 +37,7 @@ Now it will load a red background menu BE CAREFUL HERE YOU CAN BREAK THINGS!!! T
 - DONT PRESS ON ANYHTING ELSE
 - Move down to `OK` to confirm the choice & go back the blue menu.
 - Move over to `EXIT` on the blue menu.
+- Press Enter to exit
 
 I find its good to do it this way as you can see its done, just dont be tempted to click other stuff!
 
