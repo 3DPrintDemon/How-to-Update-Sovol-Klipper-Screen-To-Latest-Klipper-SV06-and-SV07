@@ -1,4 +1,4 @@
-# How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07
+# How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-SV06+-SV07-SV07+
 
 [<img width="171" alt="kofi_s_tag_dark" src="https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/ace919af-8fd3-412a-96a5-fae422ab4758">](https://ko-fi.com/3dprintdemon)
 
