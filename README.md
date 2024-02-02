@@ -13,10 +13,10 @@
 https://github.com/3DPrintDemon/Demon_KLIPPER_Essentials
 ***********************************************************************************************************************************************************
 
-To update anything on the Sovol Klipper screen you absoutly MUST freeze or lock the kernel to stop it being updated when you run any updates or installers.
-Also note this is NOT for begineers, it requires some knowledge of the system you're working on to achieve sucess! Please be careful!
+To update anything on the Sovol Klipper screen you absolutely MUST freeze or lock the kernel to stop it being updated when you run any updates or installers.
+Also note this is NOT for beginners, it requires some knowledge of the system you're working on to achieve success! Please be careful!
 
-First you have to log into your Sovol Klipper Screen ussing SSH. Use `Terminal` on a Mac or `Putty` on a PC.
+First you have to log into your Sovol Klipper Screen using SSH. Use `Terminal` on a Mac or `Putty` on a PC.
 
 once logged in paste in:
 ```
@@ -28,7 +28,7 @@ It will bring up this blue background menu:
 
 ![armbian-config 1](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/5efbc383-2470-496f-9916-b085c5ea5c59)
 
-- Press enter to confirm choices & the keyboard arrow keys to naviagte. 
+- Press enter to confirm choices & the keyboard arrow keys to navigate. 
 - Choose the first option `System and Security`
 - Press enter
 
@@ -38,12 +38,12 @@ Now it will load a red background menu BE CAREFUL HERE YOU CAN BREAK THINGS!!! T
 
 - Press enter on the top line to change it so the screen reads like the image above.
 - YOUR KERNEL IS NOW FROZEN!
-- DONT PRESS ON ANYHTING ELSE
+- DON'T PRESS ON ANYTHING ELSE
 - Move down to `OK` to confirm the choice & go back the blue menu.
 - Move over to `EXIT` on the blue menu.
 - Press Enter to exit
 
-I find its good to do it this way as you can see its done, just dont be tempted to click other stuff!
+I find its good to do it this way as you can see its done, just don't be tempted to click other stuff!
 
 
 Now you "should" be able to run the following commands WITHOUT Bricking your printer! Keep 'em crossed!
@@ -70,7 +70,7 @@ If it works like mine did GREAT well done, the tricky bit is over!
 
 ## UPDATING KLIPPER, MAINSAIL & MOONRAKER
 
-Open your web broswer & head over to your printer. Then on Mainsail open the `Machine` tab & find your `moonraker.conf` file & paste in at the bottom
+Open your web browser & head over to your printer. Then on Mainsail open the `Machine` tab & find your `moonraker.conf` file & paste in at the bottom
 
 moonraker.conf
 ```
@@ -97,10 +97,10 @@ Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have
 - Click update on your components
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
 
-YOUR version of klipper will be partially updated & you'll probabaly get a big red warning saying `PROTCOL ERROR!`
+YOUR version of klipper will be partially updated & you'll probably get a big red warning saying `PROTOCOL ERROR!`
 & saying you need to update your MCU's!
 
-Dont worry we're doing that now!
+Don't worry we're doing that now!
 
 ## UPDATING THE HOST MCU RPI & MCU FIRMWARE
 
