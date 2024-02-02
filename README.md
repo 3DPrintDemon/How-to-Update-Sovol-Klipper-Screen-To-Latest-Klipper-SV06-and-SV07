@@ -129,6 +129,8 @@ but this time change the options to these...
 ```
 STM32F103 with a "28KiB bootloader" and serial (on USART1 PA10/PA9) communication.
 ```
+![Config](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/875f9509-38ce-425c-bf77-f986d0709eb5)
+
 Save & exit
 
 now simply type 
@@ -148,7 +150,14 @@ SV07 & SV07+
 - REMOVE THE POWER & USB cables from the screen
 - Remove the draw of the printer & the full front plastic panel using the 4 large bolts on the front.
 - This will expose the sd card slot on the mainboard
+
+![IMG_3568](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/ac32b6e8-d6e5-4463-9a71-ce905b9ffc07)
+
 - Insert the full size sd card upside down into the reader until it clicks in
+
+![IMG_3569](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/28bdd324-46fe-43f3-85b0-3bfeec39a6c5)
+![IMG_3570](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/22015966-ce98-4d7f-b41e-2d46b39d0df5)
+
 - Power on the printer with the screen still disconnected, making sure its safe with the front off
 - Wait 20-30 seconds, longer if you wish
 - Power off the printer & remove the SD card
@@ -168,6 +177,11 @@ SV06/SV06+
 - Power the printer back on
 - Go to the `Machine` tab & check your MCU firmware is now the same number as the other two
 - Youre all done. WELL DONE!!
+
+Your `Machine` tab should now look like this!
+
+![Version](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/a57e33fe-b0f5-48a1-84d8-a266112d10df)
+
 
 I hope this helps you update your printer/s! Happy printing!
 
