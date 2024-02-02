@@ -35,15 +35,16 @@ I find its good to do it this way as you can see its done, just dont be tempted 
 
 
 Now you "should" be able to run the following commands WITHOUT Bricking your printer! Keep 'em crossed!
-```
-sudo apt-get update
-```
+
 ## BE SURE YOU WANT TO DO THIS! THIS IS THE POINT OF NO RETURN!
 This will update all your system components to the latest available versions for this image.
 
 Here you need your rabbits foot & to keep your fingers crossed as the new updated system attempts to start! 
 
 I HOPE YOU MADE A BACKUP OR CLONE!!!!
+```
+sudo apt-get update
+```
 ```
 sudo apt-get upgrade
 ```
