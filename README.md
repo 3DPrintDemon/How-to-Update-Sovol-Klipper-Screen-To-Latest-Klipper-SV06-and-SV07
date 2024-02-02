@@ -47,8 +47,6 @@ Now you "should" be able to run the following commands WITHOUT Bricking your pri
 ## BE SURE YOU WANT TO DO THIS! THIS IS THE POINT OF NO RETURN!
 This will update all your system components to the latest available versions for this image.
 
-Here you need your rabbits foot & to keep your fingers crossed as the new updated system attempts to start! 
-
 I HOPE YOU MADE A BACKUP OR CLONE!!!!
 ```
 sudo apt-get update
@@ -61,7 +59,7 @@ After it completes enter
 ```
 sudo reboot
 ```
-
+Here you need your rabbits foot & to keep your fingers crossed as the new updated system attempts to start! 
 
 If it fails to start you'll need to look at unbricking & reinstalling your image.
 If it works like mine did GREAT well done, the tricky bit is over!
