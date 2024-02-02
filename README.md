@@ -13,7 +13,7 @@
 https://github.com/3DPrintDemon/Demon_KLIPPER_Essentials
 ***********************************************************************************************************************************************************
 
-To update anything on the Sovol Klipper screen you absoutly MUST freeze or lock the kernal to stop it being updated when you run any updates or installers.
+To update anything on the Sovol Klipper screen you absoutly MUST freeze or lock the kernel to stop it being updated when you run any updates or installers.
 Also note this is NOT for begineers, it requires some knowledge of the system you're working on to achieve sucess! Please be careful!
 
 First you have to log into your Sovol Klipper Screen ussing SSH. Use `Terminal` on a Mac or `Putty` on a PC.
