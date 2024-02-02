@@ -82,7 +82,7 @@ path: ~/mainsail-config
 origin: https://github.com/mainsail-crew/mainsail-config.git
 managed_services: klipper
 ```
-Now `RESTART` klipper & go back to the `Machine` tab, you should new have access to the `UPDATE MANAGER`
+Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have access to the `UPDATE MANAGER`
 - Click the circle arrow button in the top of that section the get the latest update info.
 - click update on your components
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
