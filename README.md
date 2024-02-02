@@ -37,7 +37,7 @@ Now it will load a red background menu BE CAREFUL HERE YOU CAN BREAK THINGS!!! T
 ![armbian-config 2](https://github.com/3DPrintDemon/How-to-Update-Sovol-Klipper-Screen-To-Latest-Klipper-SV06-and-SV07/assets/122202359/d2fec019-74d1-4878-8814-f28c887d23fa)
 
 - Press enter on the top line to change it so the screen reads like the image above.
-- YOUR KERNAL IS NOW FROZEN!
+- YOUR KERNEL IS NOW FROZEN!
 - DONT PRESS ON ANYHTING ELSE
 - Move down to `OK` to confirm the choice & go back the blue menu.
 - Move over to `EXIT` on the blue menu.
