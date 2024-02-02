@@ -149,7 +149,7 @@ REMANE THE FILE to something random, think cat walking across your keyboard rand
 
 
 SV07 & SV07+ 
-- Copy the file to a FULL SIZE SD CARD!!! Or at least a micro SD in a full size adapeter!
+- Copy the file to a FULL SIZE SD CARD!!! Or at least a micro SD in a full size adapter!
 - SHUTDOWN the printer & remove the mains power plug
 - REMOVE THE POWER & USB cables from the screen
 - Remove the draw of the printer & the full front plastic panel using the 4 large bolts on the front.
@@ -180,7 +180,7 @@ SV06/SV06+
 - Power off the printer & remove the SD card
 - Power the printer back on
 - Go to the `Machine` tab & check your MCU firmware is now the same number as the other two
-- Youre all done. WELL DONE!!
+- You're all done. WELL DONE!!
 
 Your `Machine` tab should now look like this!
 
