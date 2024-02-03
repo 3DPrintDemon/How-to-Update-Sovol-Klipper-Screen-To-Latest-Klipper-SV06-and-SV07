@@ -97,7 +97,7 @@ Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have
 - Click update on your components
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
 
-YOUR version of klipper will be partially updated & you'll probably get a big red warning saying `PROTOCOL ERROR!`
+ERROR Ttime, your version of klipper will only be partially updated & you'll probably get a big red warning saying `PROTOCOL ERROR!`
 & saying you need to update your MCU's!
 
 Don't worry we're doing that now!
