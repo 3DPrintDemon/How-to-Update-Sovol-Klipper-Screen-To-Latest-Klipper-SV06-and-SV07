@@ -145,7 +145,7 @@ This will now build your new MCU firmware
 
 Now use a `FTP CLIENT` to log onto the printer & pull the `Klipper.bin` file from the `klipper/out` folder & download it to your computer.
 
-REMANE THE FILE to something random, think cat walking across your keyboard random.
+REMANE THE FILE to something random, think cat walking across your keyboard random. This MUST be something different on each & every flash attempt. The baord will not flash the same filename twice.
 
 
 SV07 & SV07+ 
