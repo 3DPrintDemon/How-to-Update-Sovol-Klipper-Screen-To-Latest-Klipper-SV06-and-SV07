@@ -45,7 +45,7 @@ Now it will load a red background menu BE CAREFUL HERE YOU CAN BREAK THINGS!!! T
 
 I find its good to do it this way as you can see its done, just don't be tempted to click other stuff!
 
-Once you have frozen the Kerel is done the first time you can start from the next section below any time you need to do updates. 
+Once you have frozen the Kernel the first time you can start from the next section below any time you need to do updates.
 
 Now you "should" be able to run the following commands WITHOUT Bricking your printer! Keep 'em crossed!
 
