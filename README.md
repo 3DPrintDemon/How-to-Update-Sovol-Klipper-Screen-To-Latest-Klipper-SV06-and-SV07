@@ -97,7 +97,7 @@ Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
 
 ## CROWSNEST
-A quick note on `Crowsnest` before we go further, the latest version is NOT compatible with this old Buster image used on this T300 printer. DO NOT UPDATE IT! IT WILL NOT WORK HERE!
+A quick note on `Crowsnest` before we go further, the latest version is NOT compatible with this old Buster image used on this printer. DO NOT UPDATE IT! IT WILL NOT WORK HERE!
 It is very importatnt to leave `Crowsnest` exactly as it is!!
 
 ## ERROR TIME 
