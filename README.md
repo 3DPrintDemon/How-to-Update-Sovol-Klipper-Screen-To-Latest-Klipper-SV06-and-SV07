@@ -45,7 +45,7 @@ Now it will load a red background menu BE CAREFUL HERE YOU CAN BREAK THINGS!!! T
 
 I find its good to do it this way as you can see its done, just don't be tempted to click other stuff!
 
-Once this is done the first time you can start from the next below section any time you need to do updates. 
+Once this is done the first time you can start from the next section belew any time you need to do updates. 
 
 Now you "should" be able to run the following commands WITHOUT Bricking your printer! Keep 'em crossed!
 
