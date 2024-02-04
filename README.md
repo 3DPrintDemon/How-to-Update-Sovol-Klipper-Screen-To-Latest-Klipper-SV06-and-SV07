@@ -76,8 +76,7 @@ moonraker.conf
 ```
 [update_manager] 
 channel: dev 
-refresh_interval: 168 
-enable_system_updates: False 
+refresh_interval: 168  
 
 [update_manager mainsail]
 type: web
@@ -97,14 +96,20 @@ Now `SAVE & RESTART` klipper & go back to the `Machine` tab, you should new have
 - Click update on your components
 - NOTE THIS CAN TAKE A LONG TIME - 10-20 minutes in some cases! Wait for it to complete
 
-ERROR time, your version of klipper will only be partially updated & you'll probably get a big red warning saying `PROTOCOL ERROR!`
+## CROWSNEST
+A quick note on `Crowsnest` before we go further, the latest version is NOT compatible with this old Buster image used on this T300 printer. DO NOT UPDATE IT! IT WILL NOT WORK HERE!
+It is very importatnt to leave `Crowsnest` exactly as it is!!
+
+## ERROR TIME 
+
+Your version of klipper will only be partially updated & you'll probably get a big red warning saying `PROTOCOL ERROR!`
 & saying you need to update your MCU's!
 
 Don't worry we're doing that now!
 
 ## UPDATING THE HOST MCU RPI & MCU FIRMWARE
 
-Now your system is updated & working you need to update the rest of the printer.
+Now your system is updated we need to clear those MCU errors, you need to update the rest of the printer.
 First up get back in to SSH & enter the below commands to update the MCU RPI to the same firmware version as the new Klipper.
 
 ```
