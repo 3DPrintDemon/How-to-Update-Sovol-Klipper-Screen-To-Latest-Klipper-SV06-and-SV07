@@ -52,6 +52,10 @@ Now you "should" be able to run the following commands WITHOUT Bricking your pri
 ## BE SURE YOU WANT TO DO THIS! THIS IS THE POINT OF NO RETURN!
 This will update all your system components to the latest available versions for this image.
 
+
+### IMPORTANT UPDATE!!
+Now that the "Buster" branch has been removed from all online mirrors these update commands below will fail due to this old & outdated system being discontiued, you will not be able to run these commands. You will get a 404 error. So skip this section & move on. 
+
 I HOPE YOU MADE A BACKUP OR CLONE!!!!
 ```
 sudo apt-get update
