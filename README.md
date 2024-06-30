@@ -56,6 +56,17 @@ This will update all your system components to the latest available versions for
 ### IMPORTANT UPDATE!!
 Now that the "Buster" branch has been removed from all online mirrors these update commands below will fail due to this old & outdated system being discontiued, you will not be able to run these commands. You will get a 404 error. So skip this section & move on. 
 
+If you want to do this anyway you have to modify your package list. This also has the advantage that you are now also able to install plugins.
+
+sudo nano /etc/apt/sources.list
+
+and replace the spurces with these four:
+
+deb http://deb.debian.org/debian buster main contrib non-free
+deb http://deb.debian.org/debian buster-updates main contrib non-free
+deb http://archive.debian.org/debian buster-backports main contrib non-free
+deb http://security.debian.org/debian-security/ buster/updates main contrib non-free
+
 I HOPE YOU MADE A BACKUP OR CLONE!!!!
 ```
 sudo apt-get update
